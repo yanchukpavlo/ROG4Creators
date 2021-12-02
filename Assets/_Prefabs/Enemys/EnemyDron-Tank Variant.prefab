@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6766462822388787330
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2430986629166319766, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6117647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986629166319766, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_Color.g
+      value: 0.6117647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986629166319766, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_Color.r
+      value: 0.6117647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516755, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_Name
+      value: EnemyDron-Tank Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430986630103516759, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8398560283716080482, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: score
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8398560283716080482, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: health
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8398560283716080482, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: moveSpeed
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 8398560283716080482, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: distanseForAttack
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9163389434877401549, guid: 023188455352e334e93951e725fb8657, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 023188455352e334e93951e725fb8657, type: 3}
